@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rajat
-- 👀 I’m a React Developer
+- 👨🏼‍💻 I’m a React Developer
 - 🌱 UI/UX enthusiast currently learning Designing
 - 💞️ I’m looking to collaborate on React as a Freelance Developer
 - ✨ view my portfolio on http://rajat-kumar.com/
